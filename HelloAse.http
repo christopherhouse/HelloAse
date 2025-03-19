@@ -1,0 +1,6 @@
+@HelloAse_HostAddress = http://localhost:5201
+
+GET {{HelloAse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
